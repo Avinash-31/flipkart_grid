@@ -34,7 +34,7 @@ As we continue to evolve this project, we have identified several exciting areas
 - **Emotion Analysis:** Utilize sentiment analysis for emotionally resonant product suggestions.
 - **Neural Interface:** Explore neural interfaces for direct user preference input.
 
-## Repository Link
+## Repository Link for voice chat
 
 You can access our project repository on GitHub by following this link: [https://github.com/Avinash-31/virtualChatBot.git](https://github.com/Avinash-31/virtualChatBot.git)
 
